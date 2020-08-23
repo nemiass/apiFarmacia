@@ -33,7 +33,6 @@ class App
             $this->class = new ApiFarmacia;
             return;
         }
-        exit();
     }
 
     public function loadMethod()
